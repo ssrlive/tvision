@@ -10,6 +10,8 @@ Makefile
 *.o
 *.a
 *.exe
+*.mo
+.bak
 configure.cache
 include/tv/configtv.h
 redhat/*.spec
